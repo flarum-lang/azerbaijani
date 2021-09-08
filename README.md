@@ -49,9 +49,11 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`flarum/approval`](https://github.com/flarum/approval) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/flarum-approval/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-approval/az/) |
 | [`flarum/emoji`](https://github.com/flarum/emoji) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/flarum-emoji/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-emoji/az/) |
 | [`flarum/flags`](https://github.com/flarum/flags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/flarum-flags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-flags/az/) |
 | [`flarum/likes`](https://github.com/flarum/likes) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/flarum-likes/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-likes/az/) |
+| [`flarum/tags`](https://github.com/flarum/tags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/flarum-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-tags/az/) |
 
 <!-- flarum-extensions-list-stop -->
 
@@ -76,6 +78,7 @@ php flarum cache:clear
 | Extension | Status |
 | --- | --- |
 | [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/acpl-mobile-tab/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/acpl-mobile-tab/az/) |
+| [`acpl/my-tags`](https://github.com/android-com-pl/my-tags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/acpl-my-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/acpl-my-tags/az/) |
 | [`afrux/news-widget`](https://github.com/afrux/news-widget) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/afrux-news-widget/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/afrux-news-widget/az/) |
 
 <!-- various-extensions-list-stop -->
