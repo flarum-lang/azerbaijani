@@ -200,7 +200,7 @@ core:
     composer_discussion:
       body_placeholder: 'Yazı yazın ...'
       discard_confirmation: 'Müzakirənizi yerləşdirmədiniz. Silinsin?'
-      submit_button: 'Müzakirə sonrası'
+      submit_button: Göndər
       title_placeholder: 'Mövzu Başlığı'
     composer_edit:
       discard_confirmation: 'Dəyişikliklərinizi saxlamamısınız. Silinsin?'
