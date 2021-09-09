@@ -11,6 +11,16 @@ validation:
   alpha_dash: ': Atributunda yalnız hərflər, rəqəmlər, tire və alt xəttlər olmalıdır.'
   alpha_num: ': Atributu yalnız hərf və rəqəmlərdən ibarət olmalıdır.'
   array: ': Atributu bir sıra olmalıdır.'
+  attributes:
+    content: məzmun
+    email: 'e -poçt'
+    name_plural: 'Tam ad'
+    name_singular: login
+    password: parol
+    tag_count_primary: 'əsas etiketlərin sayı'
+    tag_count_secondary: 'ikincil etiketlərin sayı'
+    title: başlıq
+    username: 'istifadəçi adı'
   before: ': Atributu əvvəlki tarix olmalıdır :date.'
   before_or_equal: ': Atributu əvvəl və ya bərabər bir tarix olmalıdır :date.'
   between:
@@ -64,4 +74,29 @@ validation:
     numeric: ': Atributu az və ya bərabər olmalıdır :value.'
     string: ': Atributu az və ya bərabər olmalıdır :value characters.'
   max:
+    array: ':max items. atributundan çox olmamalıdır'
+    file: ': Atributu maksimum :max kilobytes.  çox olmamalıdır.'
     numeric: ': Atributu :max çox olmamalıdır.'
+    string: ': Atributu maksimum :max characters dan çox olmamalıdır.'
+  mimes: ': Atributu type: :values dəyərləri olan bir fayl olmalıdır.'
+  mimetypes: ': Atributu type: :values. dəyərləri olan bir fayl olmalıdır.'
+  min:
+    array: ': Atributunda ən azı :min maddə olmalıdır.'
+    file: ': Atributu ən azı :min kilobytes olmalıdır.'
+    numeric: ': Atributu ən azı :min olmalıdır.'
+    string: ': Atributu ən azı :min simvoldan ibarət olmalıdır.'
+  multiple_of: ': Atributu :value  çoxluğu olmalıdır.'
+  not_in: 'Seçilmiş :attribute etibarsızdır.'
+  not_regex: ':attribute  formatı etibarsızdır.'
+  numeric: ':attribute bir rəqəm olmalıdır.'
+  password: 'Şifrə səhvdir.'
+  present: ':attribute sahəsi mövcud olmalıdır.'
+  prohibited: ':attribute sahəsi qadağandır.'
+  regex: ':attribute formatı etibarsızdır.'
+  required: ':attribute sahəsi tələb olunur.'
+  required_if: ': Atributu sahəsi aşağıdakı hallarda tələb olunur :other is :value.'
+  required_unless: ':attribute sahəsi, :other is in :values olmadığı təqdirdə tələb olunur.'
+  required_with: ':attribute sahəsi: :values mövcud olduqda tələb olunur.'
+  required_with_all: ':attribute sahəsi :values dəyərlər mövcud olduqda tələb olunur.'
+  required_without: ':attribute sahəsi :values olmadıqda tələb olunur.'
+  required_without_all: ':attribute sahəsi :values heç biri olmadıqda tələb olunur.'
