@@ -98,6 +98,8 @@ php flarum cache:clear
 | [`antoinefr/flarum-ext-online`](https://github.com/AntoineFr/flarum-ext-online) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/antoinefr-online/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/antoinefr-online/az/) |
 | [`flarumite/simple-discussion-views`](https://github.com/flarumite/simple-discussion-views) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/flarumite-simple-discussion-views/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarumite-simple-discussion-views/az/) |
 | [`flarumite/simple-spoilers`](https://github.com/flarumite/simple-spoilers) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/flarumite-simple-spoilers/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarumite-simple-spoilers/az/) |
+| [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/justoverclock-welcomebox/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/justoverclock-welcomebox/az/) |
+| [`justoverclock/hot-discussions`](https://github.com/justoverclockl/hot-discussions) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/justoverclock-hot-discussions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/justoverclock-hot-discussions/az/) |
 
 <!-- various-extensions-list-stop -->
 
