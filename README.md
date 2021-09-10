@@ -1,4 +1,4 @@
-# Azerbaijani language pack for [Flarum](https://flarum.org/)
+# [Flarum](https://flarum.org/) Azərbaycan dil paketi
 
 [![Latest Stable Version](https://poser.pugx.org/flarum-lang/azerbaijani/v)](https://packagist.org/packages/flarum-lang/azerbaijani) 
 [![Total Downloads](https://poser.pugx.org/flarum-lang/azerbaijani/downloads)](https://packagist.org/packages/flarum-lang/azerbaijani) 
@@ -11,31 +11,31 @@ Bu dil paketində Flarum (uyğun və 1.0.1ya daha yeni) və məşhur uzantılar 
 
 ## Yükləmə qaydası
 
-You can install language pack using [Composer](https://getcomposer.org/):
+[Composer](https://getcomposer.org/) İstifadə edərək dil paketini yükləyə bilərsiniz:
 
 ```console
 composer require flarum-lang/azerbaijani
 ```
 
-Then enable extension in admin panel of your Flarum.
+Admin paneldən dili aktiv etməyi unutmayın
 
 
-## Updating
+## Yeniləmə
 
-You can update language pack using [Composer](https://getcomposer.org/):
+[Composer](https://getcomposer.org/) Yeniləmək üçün aşağıdakı komandaları yazın
 
 ```console
 composer update flarum-lang/azerbaijani
 ```
 
-Then clear the cache:
+Sonra checkləri silin::
 
 ```console
 php flarum cache:clear
 ```
 
 
-## Translation status for Flarum core
+## Flarum core üçün tərcümə statusu
 
 | Component | Status |
 | --- | --- |
@@ -43,7 +43,7 @@ php flarum cache:clear
 | Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/az/) |
 
 
-## Translation status for official extensions
+## Rəsmi uzantılar üçün tərcümə statusu
 
 <!-- flarum-extensions-list-start -->
 
@@ -68,7 +68,7 @@ php flarum cache:clear
 <!-- flarum-extensions-list-stop -->
 
 
-## Translation status for Friends of Flarum extensions
+## Friends of Flarum uzantıları üçün tərcümə statusu
 
 <!-- fof-extensions-list-start -->
 
@@ -82,7 +82,7 @@ php flarum cache:clear
 <!-- fof-extensions-list-stop -->
 
 
-## Translation status for community extensions
+## Digər uzantılar üçün tərcümə statusu
 
 <!-- various-extensions-list-start -->
 
@@ -104,7 +104,7 @@ php flarum cache:clear
 <!-- various-extensions-list-stop -->
 
 
-## Translation status for premium extensions
+## Pullu uzantılar üçün tərcümə statusu
 
 <!-- premium-extensions-list-start -->
 
