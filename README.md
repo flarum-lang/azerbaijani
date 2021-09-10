@@ -7,13 +7,9 @@
 [![Daily Downloads](https://poser.pugx.org/flarum-lang/azerbaijani/d/daily)](https://packagist.org/packages/flarum-lang/azerbaijani) 
 
 
-This language pack contains Azerbaijani translations for Flarum (compatible with `1.0.1` or newer) and popular extensions. Full list of supported extensions is available below.
+Bu dil paketində Flarum (uyğun və 1.0.1ya daha yeni) və məşhur uzantılar üçün Azərbaycan tərcümələri var . Dəstəklənən uzantıların tam siyahısı aşağıda mövcuddur.
 
-Dil paketimiz artiq istifadə oluna bilər 
-Səflər düzəldilir 
-Bizə dəstək olmaq istəyən əlaqəyə girə bilər
-
-## Installation
+## Yükləmə qaydası
 
 You can install language pack using [Composer](https://getcomposer.org/):
 
