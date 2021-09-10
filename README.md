@@ -111,6 +111,8 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`kilowhat/flarum-ext-custom-paths`](https://extiverse.com/extension/kilowhat/flarum-ext-custom-paths) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/kilowhat-custom-paths/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-custom-paths/az/) |
+| [`kilowhat/flarum-ext-formulaire`](https://extiverse.com/extension/kilowhat/flarum-ext-formulaire) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/kilowhat-formulaire/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-formulaire/az/) |
 
 <!-- premium-extensions-list-stop -->
 
