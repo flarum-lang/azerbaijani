@@ -492,6 +492,7 @@ core:
     save_changes: 'Dəyişiklikləri yadda saxla'
     settings: Ayarlar
     sign_up: Qeydiyyat
+    some_others: '{count, plural, one {# other} other {# others}}'
     start_a_discussion: 'Mövzu aç'
     username: 'İstifadəçi adı'
     users: İstifadəçilər
