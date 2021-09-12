@@ -28,7 +28,7 @@ Admin paneldən dili aktiv etməyi unutmayın
 composer update flarum-lang/azerbaijani
 ```
 
-Sonra checkləri silin::
+Sonra checkləri silin:
 
 ```console
 php flarum cache:clear
