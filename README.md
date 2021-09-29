@@ -6,8 +6,7 @@
 [![Monthly Downloads](https://poser.pugx.org/flarum-lang/azerbaijani/d/monthly)](https://packagist.org/packages/flarum-lang/azerbaijani) 
 [![Daily Downloads](https://poser.pugx.org/flarum-lang/azerbaijani/d/daily)](https://packagist.org/packages/flarum-lang/azerbaijani) 
 
-
-Bu dil paketində Flarum (uyğun və 1.0.1ya daha yeni) və məşhur uzantılar üçün Azərbaycan tərcümələri var . Dəstəklənən uzantıların tam siyahısı aşağıda mövcuddur.
+Dil paketi tam tərçümə olunub Pluginlərin tərcüməsi davam edir Tərcümə olunan pluginlərin siyahısı aşağıdadır
 
 ## Yükləmə qaydası
 
@@ -100,9 +99,6 @@ php flarum cache:clear
 | [`antoinefr/flarum-ext-online`](https://github.com/AntoineFr/flarum-ext-online) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/antoinefr-online/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/antoinefr-online/az/) |
 | [`flarumite/simple-discussion-views`](https://github.com/flarumite/simple-discussion-views) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/flarumite-simple-discussion-views/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarumite-simple-discussion-views/az/) |
 | [`flarumite/simple-spoilers`](https://github.com/flarumite/simple-spoilers) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/flarumite-simple-spoilers/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarumite-simple-spoilers/az/) |
-| [`justoverclock/custom-header`](https://github.com/justoverclockl/custom-header) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/justoverclock-custom-header/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/justoverclock-custom-header/az/) |
-| [`justoverclock/flarum-ext-contactme`](https://github.com/justoverclockl/flarum-ext-contactme) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/justoverclock-contactme/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/justoverclock-contactme/az/) |
-| [`justoverclock/flarum-ext-guestengagement`](https://github.com/justoverclockl/flarum-ext-guestengagement) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/justoverclock-guestengagement/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/justoverclock-guestengagement/az/) |
 | [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/justoverclock-welcomebox/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/justoverclock-welcomebox/az/) |
 | [`justoverclock/hot-discussions`](https://github.com/justoverclockl/hot-discussions) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/justoverclock-hot-discussions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/justoverclock-hot-discussions/az/) |
 
