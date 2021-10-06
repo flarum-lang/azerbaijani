@@ -223,7 +223,7 @@ core:
       body: "Salam {username}!\n\nBiri {Forum} üzərindəki e -poçt ünvanını bu ünvana dəyişdi.\n\nBunu edən sizsinizssə aşağıdakı linkı daxil olaraq təstiqləyin:\n{url}\n\nBu sən etməmisənsə, bu e -poçtu gözardı et.\n"
       subject: 'E -poçt ünvanınızı təsdiq edin'
     reset_password:
-      body: "Salam {username}!\n\nKimsə {Forum} saytında hesabınız üçün unudulmuş parol sorğusu göndərdi..\n\nBu siz idinizsə, parolunuzu sıfırlamaq üçün aşağıdakı linkə daxil olun:\n{url}\n\nŞifrənizi dəyişdirmək istəmirsinizsə, bu e -poçtu gözardı edin və heç nə olmayacaq.\n"
+      body: "Salam {username}!\n\nKimsə {forum} saytında hesabınız üçün unudulmuş parol sorğusu göndərdi..\n\nBu siz idinizsə, parolunuzu sıfırlamaq üçün aşağıdakı linkə daxil olun:\n{url}\n\nŞifrənizi dəyişdirmək istəmirsinizsə, bu e -poçtu gözardı edin və heç nə olmayacaq.\n"
       subject: '=> core.ref.reset_your_password'
     send_test:
       body: "Hey {username}!\n\nBu, Flarum e -poçt konfiqurasiyanızın düzgün işlədiyini təsdiq edən bir test e -poçtudur.\n\nBu sizsinizssə, bu e -poçt konfiqurasiyanızın işlədiyi deməkdir!\n\nsiz deyilsinizsə, bu e -poçtu gözardı et.\n"
