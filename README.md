@@ -109,6 +109,7 @@ php flarum cache:clear
 | [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/justoverclock-welcomebox/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/justoverclock-welcomebox/az/) |
 | [`justoverclock/hot-discussions`](https://github.com/justoverclockl/hot-discussions) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/justoverclock-hot-discussions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/justoverclock-hot-discussions/az/) |
 | [`sycho/flarum-profile-cover`](https://github.com/SychO9/flarum-profile-cover) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/sycho-profile-cover/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/sycho-profile-cover/az/) |
+| [`the-turk/flarum-stickiest`](https://github.com/the-turk/flarum-stickiest) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/the-turk-stickiest/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/the-turk-stickiest/az/) |
 
 <!-- various-extensions-list-stop -->
 
