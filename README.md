@@ -1,3 +1,8 @@
+> **This language pack is searching for a maintainer!**
+>
+> This language pack is maintained by the community. Anyone can translate through [Weblate](https://weblate.rob006.net/languages/az/flarum/) and no one verifies contributed translations. If you want to help maintain this package, you can contact us in [this discussion](https://discuss.flarum.org/d/27519-the-flarum-language-project).
+
+
 # [Flarum](https://flarum.org/) Azərbaycan dil paketi
 
 [![Latest Stable Version](https://poser.pugx.org/flarum-lang/azerbaijani/v)](https://packagist.org/packages/flarum-lang/azerbaijani) 
@@ -13,7 +18,7 @@ Dil paketi tam tərçümə olunub Pluginlərin tərcüməsi davam edir Tərcüm�
 [Composer](https://getcomposer.org/) İstifadə edərək dil paketini yükləyə bilərsiniz:
 
 ```console
-composer require flarum-lang/azerbaijani
+composer require flarum-lang/azerbaijani:dev-master
 ```
 
 Admin paneldən dili aktiv etməyi unutmayın
@@ -38,7 +43,7 @@ php flarum cache:clear
 
 | Component | Status |
 | --- | --- |
-| [Core](https://github.com/flarum/core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/az/) |
+| [Core](https://github.com/flarum/flarum-core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/az/) |
 | Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/az/) |
 
 
