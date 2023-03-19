@@ -28,6 +28,7 @@
 	"extra": {
 		"flarum-extension": {
 			"title": "Azerbaijani",
+			"category": "language",
 			"icon": {
 				"image": "icon.svg",
 				"backgroundSize": "cover",
