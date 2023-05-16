@@ -36,5 +36,5 @@ flarum-subscriptions:
       notify_email_tooltip: 'Yeni yazılar olanda e -poçt alın'
   ref:
     follow: İzlə
-    following: izlədiklərim
+    following: İzləyirsən
     ignoring: 'Yox say'
