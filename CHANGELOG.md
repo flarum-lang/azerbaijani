@@ -17,6 +17,7 @@ CHANGELOG
 * [`askvortsov/flarum-pwa`](https://github.com/askvortsov1/flarum-pwa)
 * [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade)
 * [`fof/nightmode`](https://github.com/FriendsOfFlarum/nightmode)
+* [`fof/socialprofile`](https://github.com/FriendsOfFlarum/socialprofile)
 * [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
 * [`fof/webhooks`](https://github.com/FriendsOfFlarum/webhooks)
 * [`jslirola/flarum-ext-login2seeplus`](https://github.com/jslirola/flarum-ext-login2seeplus)
@@ -37,6 +38,7 @@ CHANGELOG
 * [`flarum/flags`](https://github.com/flarum/flags)
 * [`flarum/sticky`](https://github.com/flarum/sticky)
 * [`flarum/tags`](https://github.com/flarum/tags)
+* [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio)
 
 
 All changes: [1.0.1...1.1.0](https://github.com/flarum-lang/azerbaijani/compare/1.0.1...1.1.0).
