@@ -5,38 +5,38 @@
 fof-masquerade:
   admin:
     buttons:
-      add-field: 'Sahə yaradın'
-      delete-field: 'Sahəni silin'
+      add-field: 'Sahəni yarat'
+      delete-field: 'Sahəni sil'
       edit-field: 'Dəyişiklikləri yadda saxla'
     fields:
-      add: '{field} sahəsi əlavə et'
+      add: 'Sahə əlavə et {field}'
       description: 'Sahənin açıqlaması'
       description-help: "Bu sahənin istifadəsini/ehtiyacını izah etmək üçün əlavə təsvir.\n"
       edit: '{field} sahəsini redaktə et'
-      force-user-to-completion: 'İstifadəçini profili tamamlamağa məcbur edin'
+      force-user-to-completion: 'İstifadəçini profili tamamlamağa məcbur et'
       icon: İkon
-      icon-help: "İstifadəçi tərəfindən daxil edilmiş dəyərlərin qarşısında işarəni göstərir. Mövcud ikonalara istinad üçün <a>FontAwesome veb saytına</a> baxın. \"fas fa-info\" kimi \"fa-\" prefiksi olan ikon adlarından istifadə edin.\n"
+      icon-help: "İstifadəçi tərəfindən daxil edilmiş dəyərlərin qarşısında göstərilən işarə. Əlçatan ikonalara istinad üçün <a>FontAwesome veb saytına</a> baxın. \"fas fa-info\" kimi \"fa-\" prefiksi olan ikon adlarından istifadə edin.\n"
       name: 'Sahənin adı'
-      name-help: "İctimai görünən (tərcümə olunmayan) sahə etiketi.\n"
-      on_bio: 'İstifadəçi biosunda bu sahənin cavabını göstərin'
-      option-comma-warning: 'Seçim etiketində vergül (",") ola bilməz.'
+      name-help: "İctimai görünən (tərcümə olunmayan) sahə başlığı.\n"
+      on_bio: 'İstifadəçinin biosunda bu sahənin cavabını göstər'
+      option-comma-warning: 'Seçim başlığında vergül (",") ola bilməz.'
       option-new: 'Yeni seçim'
       options: Seçimlər
       prefix: 'Sahə prefiksi'
       prefix-help: "Bu sahə üçün istifadəçi tərəfindən daxil edilmiş məlumatların qarşısında prefiksinizi göstərir.\n"
-      required: 'Sahəni "məcburi" olaraq işarələ'
+      required: 'Sahəni "Məcburi" olaraq işarələ'
       title: Sahələr
       type: Növ
       validation: Doğrulama
-      validation-help: "Dəstəklənən <a>Laravel doğrulama qaydalarını</a> yoxlayın. Məsələn: \"string|min:5\" və ya \"url\".\n"
+      validation-help: "Dəstəklənən <a>Laravel doğrulama qaydalarına</a> baxın. Məsələn: \"string|min:5\" və ya \"url\".\n"
     general-options: 'Ümumi seçimlər'
     permissions:
-      edit-others-profile: 'Digər istifadəçilərin profilini redaktə edin'
-      have-profile: 'Masquerade profilə sahib olun'
-      view-profile: 'Masquerade profilini görüntüləyin'
+      edit-others-profile: 'Digər istifadəçilərin profilini redaktə et'
+      have-profile: 'Masquerade profilə sahib ol'
+      view-profile: 'Masquerade profilini görüntülə'
     types:
-      advanced: Qabaqcıl
-      boolean: 'Qeyd xanası'
+      advanced: 'İnkişaf etmiş'
+      boolean: 'Qeyd xanası (Checkbox)'
       email: E-poçt
       select: 'Açılan siyahı'
       url: URL
@@ -53,5 +53,5 @@ fof-masquerade:
         'no': Xeyr
         'yes': Bəli
       select:
-        none-optional: 'Heç bir seçim edilmədi (məcburi deyil)'
-        none-required: 'Zəhmət olmasa, bir seçim edin (məcburi)'
+        none-optional: 'Seçim edilmədi'
+        none-required: 'Zəhmət olmasa, seçim edin'
