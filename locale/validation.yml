@@ -3,14 +3,14 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 validation:
-  accepted: ': Atributu qəbul edilməlidir.'
-  active_url: ': Atributu etibarlı bir URL deyil.'
-  after: ': Atributu bu tarixdən sonra olmalıdır :date.'
-  after_or_equal: ': Atributu bir tarixdən sonra və ya ona bərabər olmalıdır :date.'
-  alpha: ': Atributu yalnız hərflərdən ibarət olmalıdır.'
-  alpha_dash: ': Atributunda yalnız hərflər, rəqəmlər, tire və alt xəttlər olmalıdır.'
-  alpha_num: ': Atributu yalnız hərf və rəqəmlərdən ibarət olmalıdır.'
-  array: ': Atributu bir sıra olmalıdır.'
+  accepted: ':attribute qəbul edilməlidir.'
+  active_url: ':attribute etibarlı bir URL deyil.'
+  after: ':attribute :date - dən sonrakı tarix olmalıdır.'
+  after_or_equal: ':attribute :date - dən sonrakı və ya ona bərabər olan tarix olmalıdır.'
+  alpha: ':attribute yalnız hərflərdən ibarət olmalıdır.'
+  alpha_dash: ':attribute yalnız hərflər, rəqəmlər, tire və alt xəttlərdən ibarət olmalıdır.'
+  alpha_num: ':attribute yalnız hərflər və rəqəmlər olmalıdır.'
+  array: ':attribute massiv olmalıdır.'
   attributes:
     content: məzmun
     email: 'e -poçt'
@@ -21,16 +21,16 @@ validation:
     tag_count_secondary: 'ikincil etiketlərin sayı'
     title: başlıq
     username: 'istifadəçi adı'
-  before: ': Atributu əvvəlki tarix olmalıdır :date.'
-  before_or_equal: ': Atributu əvvəl və ya bərabər bir tarix olmalıdır :date.'
+  before: ':attribute :date - dən əvvəlki tarix olmalıdır.'
+  before_or_equal: ':attribute :date - dən əvvəl və ya ona bərabər bir tarix olmalıdır.'
   between:
-    array: ': Atributu :min və :max arasında olmalıdır.'
-    file: ': Atributu :min və :max kilobayt arasında olmalıdır.'
-    numeric: ': Atributu: :min və :max. arasında olmalıdır.'
-    string: ': Atributu :min və :max simvol arasında olmalıdır.'
-  boolean: ': Atribut sahəsi doğru və ya yanlış olmalıdır.'
-  confirmed: ': Atribut təsdiqi uyğun gəlmir.'
-  date: ': Atributu etibarlı bir tarix deyil.'
+    array: ':attribute :min və :max elementləri arasında olmalıdır.'
+    file: ':attribute :min və :max kilobayt arasında olmalıdır.'
+    numeric: ':attribute :min və :max arasında olmalıdır.'
+    string: ':attribute :min və :max simvolları arasında olmalıdır.'
+  boolean: ':attribute sahəsi doğru və ya yanlış olmalıdır.'
+  confirmed: ':attribute təsdiqi uyğun gəlmir.'
+  date: ':attribute etibarlı tarix deyil.'
   date_equals: ': Atributu bərabər bir tarix olmalıdır :date.'
   date_format: ': Atributu formatla uyğun gəlmir :format.'
   different: 'Atributu və :other fərqli olmalıdır.'
