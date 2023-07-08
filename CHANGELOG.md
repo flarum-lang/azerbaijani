@@ -37,6 +37,7 @@ CHANGELOG
 
 * [`flarum/flags`](https://github.com/flarum/flags)
 * [`flarum/sticky`](https://github.com/flarum/sticky)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
 * [`flarum/tags`](https://github.com/flarum/tags)
 * [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio)
 
