@@ -15,6 +15,7 @@ CHANGELOG
 
 * [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
 * [`askvortsov/flarum-pwa`](https://github.com/askvortsov1/flarum-pwa)
+* [`flarum/bbcode`](https://github.com/flarum/bbcode)
 * [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade)
 * [`fof/nightmode`](https://github.com/FriendsOfFlarum/nightmode)
 * [`fof/socialprofile`](https://github.com/FriendsOfFlarum/socialprofile)
@@ -37,6 +38,7 @@ CHANGELOG
 
 * [`flarum/flags`](https://github.com/flarum/flags)
 * [`flarum/likes`](https://github.com/flarum/likes)
+* [`flarum/markdown`](https://github.com/flarum/markdown)
 * [`flarum/mentions`](https://github.com/flarum/mentions)
 * [`flarum/sticky`](https://github.com/flarum/sticky)
 * [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
