@@ -36,6 +36,7 @@ CHANGELOG
 **Updated translations for extensions**:
 
 * [`flarum/flags`](https://github.com/flarum/flags)
+* [`flarum/likes`](https://github.com/flarum/likes)
 * [`flarum/sticky`](https://github.com/flarum/sticky)
 * [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
 * [`flarum/tags`](https://github.com/flarum/tags)
