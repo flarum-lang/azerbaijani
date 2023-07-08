@@ -45,7 +45,7 @@ fof-masquerade:
       profile-completed: 'Profil tamamlandı! <a>Əsas səhifəyə keçin</a>'
       profile-completion-required: "Zəhmət olmasa aşağıdakı profil sahələrini doldurun.\n"
     buttons:
-      edit-profile: 'Profilə düzəliş et'
+      edit-profile: 'Profili redaktə et'
       save-profile: 'Yadda saxla'
       view-profile: 'Profili görüntülə'
     fields:
