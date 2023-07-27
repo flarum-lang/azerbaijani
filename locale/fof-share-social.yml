@@ -17,13 +17,13 @@ fof-share-social:
     networks:
       facebook: Facebook
       linkedin: LinkedIn
-      my_mail: 'My World'
+      my_mail: 'Мой Мир'
       native: 'Lokal Paylaşım'
-      odnoklassniki: Odnoklassniki
+      odnoklassniki: Одноклассники
       qq: QQ
       qzone: QZone
       reddit: Reddit
       telegram: Telegram
       twitter: Twitter
-      vkontakte: VKontakte
+      vkontakte: ВКонтакте
       whatsapp: WhatsApp
