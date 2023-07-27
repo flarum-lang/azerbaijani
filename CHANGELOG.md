@@ -18,6 +18,7 @@ CHANGELOG
 * [`flarum/bbcode`](https://github.com/flarum/bbcode)
 * [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade)
 * [`fof/nightmode`](https://github.com/FriendsOfFlarum/nightmode)
+* [`fof/share-social`](https://github.com/FriendsOfFlarum/share-social)
 * [`fof/socialprofile`](https://github.com/FriendsOfFlarum/socialprofile)
 * [`fof/terms`](https://github.com/FriendsOfFlarum/terms)
 * [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
