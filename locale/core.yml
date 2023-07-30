@@ -263,13 +263,13 @@ core:
     invalid_username_message: 'İstifadəçi adı yalnız hərflər, rəqəmlər və tirelərdən ibarət ola bilər.'
   email:
     activate_account:
-      body: "Salam {username}!\n\nKimsə bu e -poçt ünvanı ilə {forum} saytına üzv oldu.\n\nBunu siz etmisinizssə, aşağıdakı linkə daxil olaraq heabınızı aktiv edin:\n{url}\n\nQeydiyyatdan keçməmisinizsə, bu e -poçtu gözardı edin.\n"
+      body: "Salam {username}!\n\nKimsə bu e-poçt ünvanı ilə {forum} saytına üzv oldu.\n\nBunu siz etmisinizssə, aşağıdakı linkə daxil olaraq heabınızı aktiv edin:\n{url}\n\nQeydiyyatdan keçməmisinizsə, bu e-poçtu gözardı edin.\n"
       subject: 'Yeni Hesabınızı Aktivləşdirin'
     confirm_email:
-      body: "Salam {username}!\n\nKimsə {forum} üzərindəki e -poçt ünvanını bu ünvana dəyişdi.\n\nƏgər bu siz idinizsə, aşağıdakı linkə daxil olaraq e-poçtunuzu təsdiqləyin:\n{url}\n\nƏgər bu siz deyilsinizsə, bu e-poçtu gözardı edin.\n"
+      body: "Salam {username}!\n\nKimsə {forum} üzərindəki e-poçt ünvanını bu ünvana dəyişdi.\n\nƏgər bu siz idinizsə, aşağıdakı linkə daxil olaraq e-poçtunuzu təsdiqləyin:\n{url}\n\nƏgər bu siz deyilsinizsə, bu e-poçtu gözardı edin.\n"
       subject: 'Yeni E-poçt Ünvanınızı Təsdiqləyin'
     reset_password:
-      body: "Salam {username}!\n\nKimsə {forum} üzərində hesabınız üçün unudulmuş parol sorğusu göndərdi.\n\nBu siz idinizsə, parolunuzu sıfırlamaq üçün aşağıdakı linkə daxil olun:\n{url}\n\nŞifrənizi dəyişdirmək istəmirsinizsə, bu e -poçtu gözardı edin.\n"
+      body: "Salam {username}!\n\nKimsə {forum} üzərində hesabınız üçün unudulmuş parol sorğusu göndərdi.\n\nBu siz idinizsə, parolunuzu sıfırlamaq üçün aşağıdakı linkə daxil olun:\n{url}\n\nŞifrənizi dəyişdirmək istəmirsinizsə, bu e-poçtu gözardı edin.\n"
       subject: '=> core.ref.reset_your_password'
     send_test:
       body: "Salam {username}!\n\nBu, Flarum e-poçt konfiqurasiyanızın düzgün işlədiyini təsdiqləyən sınaq e-poçtudur.\n\nƏgər bu siz idinizsə, bu e-poçt o deməkdir ki, konfiqurasiyanız işləyir!\n\nƏgər bu siz deyilsinizsə, bu e-poçtu gözardı edin.\n"
