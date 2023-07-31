@@ -35,6 +35,7 @@ CHANGELOG
 * [`kilowhat/flarum-ext-formulaire`](https://extiverse.com/extension/kilowhat/flarum-ext-formulaire)
 * [`sycho/flarum-profile-cover`](https://github.com/SychO9/flarum-profile-cover)
 * [`the-turk/flarum-stickiest`](https://github.com/the-turk/flarum-stickiest)
+* [`therealsujitk/flarum-ext-gifs`](https://github.com/therealsujitk/flarum-ext-gifs)
 * [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog)
 
 
