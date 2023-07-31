@@ -21,8 +21,8 @@ flarum-mentions:
       subject: '{mentioner_display_name} {title} ünvanında sizdən bəhs etdi'
   forum:
     composer:
-      mention_tooltip: 'Bir istifadəçini və ya yazını qeyd edin'
-      reply_to_post_text: '#{number} nömrəsinə cavab verin'
+      mention_tooltip: 'Bəhs et'
+      reply_to_post_text: 'Cavab ver #{number}'
     group_mention:
       deleted_text: '[naməlum qrup]'
     mentioned_by:
