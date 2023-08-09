@@ -8,5 +8,5 @@ afrux-online-users-widget:
       max_users: 'Göstəriləcək Maksimum İstifadəçilər'
   forum:
     widget:
-      empty: 'Hazırda İstifadəçi yoxdur.'
-      title: 'Onlayn istifadəçilər'
+      empty: 'Hazırda Heç Kim Onlayın Deyil.'
+      title: 'Onlayn İstifadəçilər'
