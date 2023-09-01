@@ -37,6 +37,7 @@ CHANGELOG
 * [`the-turk/flarum-stickiest`](https://github.com/the-turk/flarum-stickiest)
 * [`therealsujitk/flarum-ext-gifs`](https://github.com/therealsujitk/flarum-ext-gifs)
 * [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog)
+* [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges)
 
 
 **Updated translations for extensions**:
