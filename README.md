@@ -124,6 +124,7 @@ php flarum cache:clear
 | [`the-turk/flarum-stickiest`](https://github.com/the-turk/flarum-stickiest) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/the-turk-stickiest/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/the-turk-stickiest/az/) |
 | [`therealsujitk/flarum-ext-gifs`](https://github.com/therealsujitk/flarum-ext-gifs) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/therealsujitk-gifs/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/therealsujitk-gifs/az/) |
 | [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/v17development-blog/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-blog/az/) |
+| [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges) | [![Translation status](https://weblate.rob006.net/widgets/flarum/az/v17development-user-badges/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-user-badges/az/) |
 
 <!-- various-extensions-list-stop -->
 
