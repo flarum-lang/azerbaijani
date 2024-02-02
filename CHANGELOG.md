@@ -13,9 +13,12 @@ CHANGELOG
 
 **Added support for new extensions**:
 
+* [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache)
+* [`afrux/asirem`](https://github.com/afrux/asirem)
 * [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
 * [`askvortsov/flarum-pwa`](https://github.com/askvortsov1/flarum-pwa)
 * [`flarum/bbcode`](https://github.com/flarum/bbcode)
+* [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
 * [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification)
 * [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade)
 * [`fof/nightmode`](https://github.com/FriendsOfFlarum/nightmode)
@@ -43,9 +46,11 @@ CHANGELOG
 
 **Updated translations for extensions**:
 
+* [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab)
 * [`afrux/forum-stats-widget`](https://github.com/afrux/forum-stats-widget)
 * [`afrux/online-users-widget`](https://github.com/afrux/online-users-widget)
 * [`afrux/top-posters-widget`](https://github.com/afrux/top-posters-widget)
+* [`flarum/akismet`](https://github.com/flarum/akismet)
 * [`flarum/approval`](https://github.com/flarum/approval)
 * [`flarum/flags`](https://github.com/flarum/flags)
 * [`flarum/likes`](https://github.com/flarum/likes)
