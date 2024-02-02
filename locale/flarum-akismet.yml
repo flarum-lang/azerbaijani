@@ -5,8 +5,12 @@
 flarum-akismet:
   admin:
     akismet_settings:
-      api_key_label: 'API Key'
+      api_key_label: 'APİ açarı'
+      delete_blatant_spam_help: 'Əgər Akismet şərhin açıq-aşkar spam olduğunu müəyyən edibsə, işarələmək əvəzinə postu avtomatik silin'
+      delete_blatant_spam_label: 'Aşkar spamları avtomatik silin'
       title: 'Akismet Ayarları'
+    permissions:
+      bypass_akismet: 'Akismet dolama yolu'
   forum:
     post:
       akismet_flagged_text: 'Akismet spam olaraq qeyd edildi'
