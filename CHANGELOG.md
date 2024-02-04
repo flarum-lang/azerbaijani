@@ -54,6 +54,7 @@ CHANGELOG
 * [`flarum/approval`](https://github.com/flarum/approval)
 * [`flarum/flags`](https://github.com/flarum/flags)
 * [`flarum/likes`](https://github.com/flarum/likes)
+* [`flarum/lock`](https://github.com/flarum/lock)
 * [`flarum/markdown`](https://github.com/flarum/markdown)
 * [`flarum/mentions`](https://github.com/flarum/mentions)
 * [`flarum/sticky`](https://github.com/flarum/sticky)
