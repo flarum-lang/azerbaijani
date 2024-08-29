@@ -11,7 +11,7 @@
 [![Monthly Downloads](https://poser.pugx.org/flarum-lang/azerbaijani/d/monthly)](https://packagist.org/packages/flarum-lang/azerbaijani) 
 [![Daily Downloads](https://poser.pugx.org/flarum-lang/azerbaijani/d/daily)](https://packagist.org/packages/flarum-lang/azerbaijani) 
 
-Dil paketi tam tərçümə olunub Pluginlərin tərcüməsi davam edir Tərcümə olunan pluginlərin siyahısı aşağıdadır
+Dil paketi tam tərcümə olunub Pluginlərin tərcüməsi davam edir Tərcümə olunan pluginlərin siyahısı aşağıdadır
 
 ## Yükləmə qaydası
 
