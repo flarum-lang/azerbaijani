@@ -10,7 +10,7 @@ core:
       colors_primary_label: 'Əsas Rəng'
       colors_secondary_label: 'İkincil Rəng'
       colors_text: 'Forumunuzun mövzusu üçün iki rəng seçin. Birincisi vurğulanan rəng kimi, ikincisi isə fon elementlərinin üslubu üçün istifadə olunacaq.'
-      custom_footer_heading: 'Fərdi Footer'
+      custom_footer_heading: 'Fərdi Altbilgi'
       custom_footer_text: '=> core.ref.custom_footer_text'
       custom_header_heading: 'Fərdi Header'
       custom_header_text: '=> core.ref.custom_header_text'
@@ -23,7 +23,7 @@ core:
       edit_footer_button: '=> core.ref.custom_footer_title'
       edit_header_button: '=> core.ref.custom_header_title'
       enter_hex_message: 'Zəhmət olmasa onaltılıq (hexadecimal) rəng kodu daxil edin.'
-      favicon_heading: Favicon
+      favicon_heading: Favikon
       favicon_text: 'Forumun qısayol simvolu kimi göstəriləcək bir şəkil yükləyin (favikon).'
       logo_heading: Loqo
       logo_text: 'Forumun başlığının yerinə göstəriləcək bir şəkil yükləyin (Loqo).'
