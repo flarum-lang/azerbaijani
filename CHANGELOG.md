@@ -19,6 +19,7 @@ CHANGELOG
 * [`askvortsov/flarum-pwa`](https://github.com/askvortsov1/flarum-pwa)
 * [`flarum/bbcode`](https://github.com/flarum/bbcode)
 * [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
+* [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views)
 * [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification)
 * [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade)
 * [`fof/nightmode`](https://github.com/FriendsOfFlarum/nightmode)
