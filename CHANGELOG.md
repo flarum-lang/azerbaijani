@@ -2,7 +2,7 @@ CHANGELOG
 =========
 
 
-1.1.0 (XXXX-XX-XX)
+1.0.2 (XXXX-XX-XX)
 ------------------
 
 **General changes**:
@@ -70,6 +70,6 @@ CHANGELOG
 * [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio)
 
 
-All changes: [1.0.1...1.1.0](https://github.com/flarum-lang/azerbaijani/compare/1.0.1...1.1.0).
+All changes: [1.0.1...1.0.2](https://github.com/flarum-lang/azerbaijani/compare/1.0.1...1.0.2).
 
 
