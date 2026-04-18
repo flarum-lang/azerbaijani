@@ -18,7 +18,7 @@ Dil paketi tam tərçümə olunub Pluginlərin tərcüməsi davam edir Tərcüm�
 [Composer](https://getcomposer.org/) İstifadə edərək dil paketini yükləyə bilərsiniz:
 
 ```console
-composer require flarum-lang/azerbaijani:dev-master
+composer require "flarum-lang/azerbaijani:@dev"
 ```
 
 Admin paneldən dili aktiv etməyi unutmayın
