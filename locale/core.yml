@@ -11,6 +11,8 @@ core:
           begin_button_text: 'Yarıya bölməyə başlayırıq'
           continue_button_text: 'Yarıya bölünməyə davam edin'
     appearance:
+      allow_user_color_scheme_label: 'İstifadəçilərə öz rəng sxemini seçməyə icazə verin'
+      color_scheme_label: 'Rəng sxemi (defolt)'
       colored_header_label: 'Rəngli Başlıq (Header)'
       colors_heading: Rənglər
       colors_primary_label: 'Əsas Rəng'
@@ -424,6 +426,8 @@ core:
       account_heading: Hesab
       change_email_button: '=> core.ref.change_email'
       change_password_button: '=> core.ref.change_password'
+      color_scheme_heading: 'Rəng sxemi'
+      device_heading: Cihaz
       notification_checkbox_a11y_label_template: '{method} vasitəsilə "{description}" bildirişləri alın'
       notifications_heading: '=> core.ref.notifications'
       notify_by_email_heading: '=> core.ref.email'
