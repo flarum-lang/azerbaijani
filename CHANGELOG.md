@@ -27,6 +27,7 @@ CHANGELOG
 * [`fof/username-request`](https://github.com/FriendsOfFlarum/username-request)
 * [`fof/webhooks`](https://github.com/FriendsOfFlarum/webhooks)
 * [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado)
 * [`sycho/flarum-profile-cover`](https://github.com/SychO9/flarum-profile-cover)
 
 
