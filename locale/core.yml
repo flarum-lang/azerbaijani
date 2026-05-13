@@ -36,9 +36,12 @@ core:
       logo_text: 'Forumun başlığının yerinə göstəriləcək bir şəkil yükləyin (Loqo).'
       title: Görünüş
     basics:
+      abandoned_extensions_notify_admins_label: 'Həftəlik yoxlama zamanı yeni tərk edilmiş genişləndirmə aşkar edildikdə adminlərə e-poçt göndərin'
       all_discussions_label: '=> core.ref.all_discussions'
       default_language_heading: 'Hazırki Dil'
       description: 'Forumun başlığını, dilini və digər əsas parametrlərinizi təyin edin.'
+      display_name_driver_options:
+        username: 'İstifadəçi adı'
       display_name_heading: 'İstifadəçinin Görünən Adı'
       display_name_text: 'İstifadəçilərin ekran adları üçün istifadə edilməli olan sürücünü seçin. Standart olaraq istifadəçi adı göstərilir.'
       forum_description_heading: 'Forum Açıqlaması'
@@ -48,6 +51,9 @@ core:
       home_page_text: 'İstifadəçilərin forumunuzu ziyarət etdikdə ilk görəcəyi səhifəni seçin.'
       show_language_selector_label: 'Dil seçicisini göstər'
       slug_driver_heading: 'Slug Sürücü (Slug Driver): {model}'
+      slug_driver_options:
+        users:
+          default: 'İstifadəçi adı'
       slug_driver_text: 'Bu modeldə "Slugging" üçün istifadə ediləcək bir sürücü seçin.'
       title: Əsaslar
       welcome_banner_heading: 'Xoş gəlmisiniz Banneri'
@@ -240,6 +246,9 @@ core:
             title: Qruplar
           join_time:
             title: Qoşuldu
+          user_actions:
+            edit_user:
+              tooltip: '{username} redaktə edin'
           user_id:
             title: ID
           username:
@@ -254,15 +263,39 @@ core:
       must_be_numeric_message: '{filter} filtri rəqəmli olmalıdır.'
       must_not_be_array_message: '{filter} filtri massiv olmamalıdır.'
       must_not_be_multidimensional_array_message: '{filter} filtri çoxölçülü massiv olmamalıdır.'
+    invalid_username_message: 'İstifadəçi adı yalnız hərflər, rəqəmlər və tirelərdən ibarət ola bilər. Ən azı bir hərflə.'
   email:
+    abandoned_extensions:
+      body_intro: 'Aşağıdakı quraşdırılmış artırma(lar) tərk edilmiş kimi işarələnib:'
+      body_outro: 'Lütfən, bu genişləndirmələri nəzərdən keçirin və mümkün olduqda alternativlərə köçməyi düşünün.'
+      subject: 'Tədbir tələb olunur: tərk edilmiş genişləndirmə(lər) aşkar edildi'
     activate_account:
+      body: "Kimsə bu e-poçt ünvanı ilə {forum}-a üzv olub.\n\nƏgər bu siz idinizsə, sadəcə olaraq aşağıdakı linkə klikləyin və hesabınız aktivləşəcək:\n{url}\n\nQeydiyyatdan keçməmisinizsə, lütfən, bu e-məktuba məhəl qoymayın.\n"
       subject: 'Yeni Hesabınızı Aktivləşdirin'
     confirm_email:
+      body: "Kimsə {forum}-dakı e-poçt ünvanını bu ünvana dəyişib.\n\nƏgər bu siz idinizsə, sadəcə olaraq aşağıdakı linkə klikləyin və e-poçtunuz təsdiqlənəcək:\n{url}\n\nƏgər bu siz deyilsinizsə, lütfən, bu e-məktubu blok edin.\n"
       subject: 'Yeni E-poçt Ünvanınızı Təsdiqləyin'
+    greeting: 'Salam {displayName},'
+    informational:
+      default_title: Məlumat
+      footer: 'Bu e-məktub {userEmail} ünvanına [{forumTitle}]({forumUrl}) saytındakı hesabınızla bağlı məlumat xidməti kimi göndərilib.'
+      footer_plain: 'Bu e-poçt {userEmail} ünvanına {forumTitle} saytında hesabınızla bağlı məlumat xidməti kimi göndərilib.'
+    notification:
+      default_title: Bildiriş
+      footer:
+        main_text: 'Bu e-məktub {email} ünvanına göndərildi, çünki siz [{forumTitle}]({forumUrl}) saytında "{type}" bildirişlərinə abunəsiniz.'
+        main_text_plain: 'Bu e-poçt {email} ünvanına göndərildi, çünki siz {forumTitle} saytında "{type}" bildirişlərinə abunəsiniz.'
+        settings_text: 'Bildiriş ayarlarınızı [burada]({settingsLink}) idarə edin.'
+        settings_text_plain: 'Bildiriş ayarlarınızı buradan idarə edin: {settingsLink}'
+        unsubscribe_text: 'Bu tip bildirişləri almağı dayandırmaq istəyirsinizsə, [burada abunəlikdən çıxın]({unsubscribeLink}).'
+        unsubscribe_text_plain: 'Bu tip bildirişləri almağı dayandırmaq istəyirsinizsə, burada abunəlikdən çıxın: {unsubscribeLink}'
     reset_password:
+      body: "Kimsə {forum} saytında hesabınız üçün unudulmuş parol sorğusu göndərib.\n\nƏgər bu siz idinizsə, parolunuzu sıfırlamaq üçün aşağıdakı linkə klikləyin:\n{url}\n\nƏgər parolunuzu dəyişmək istəmirsinizsə, sadəcə olaraq bu e-məktuba məhəl qoymayın və heç nə olmayacaq.\n"
       subject: '=> core.ref.reset_your_password'
     send_test:
+      body: "Bu, Flarum e-poçt konfiqurasiyanızın düzgün işlədiyini təsdiqləyən sınaq e-poçtudur.\n\nƏgər bu siz idinizsə, bu e-poçt o deməkdir ki, konfiqurasiyanız işləyir!\n\nƏgər bu siz deyilsinizsə, lütfən, bu e-məktubu blok edin.\n"
       subject: 'Flarum E-poçt Testi'
+    signoff: '{forumTitle} komandası'
   forum:
     change_email:
       confirm_password_placeholder: '=> core.ref.confirm_password'
@@ -516,6 +549,13 @@ core:
       permission_denied_message: 'Bunu etmək üçün icazəniz yoxdur.'
       rate_limit_exceeded_message: 'Bir neçə saniyədən sonra yenidən cəhd edin.'
       render_failed_message: 'Üzr istəyirik, bu məzmunu göstərərkən xəta ilə qarşılaşdıq. İstifadəçisinizsə, daha sonra yenidən cəhd edin. Əgər siz inzibatçısınızsa, əlavə məlumat üçün Flarum log fayllarınıza nəzər salın.'
+    gambits:
+      discussions:
+        author:
+          hint: 'istifadəçi adı və ya istifadəçi adlarının vergüllə ayrılmış siyahısı'
+      users:
+        email:
+          key: e-poçt
     loading_indicator:
       accessible_label: '=> core.ref.loading'
     meta_titles:
@@ -633,3 +673,6 @@ core:
       new_password_label: 'Yeni şifrə'
       submit_button: '=> core.ref.save_changes'
       title: '=> core.ref.reset_your_password'
+    unsubscribe_email:
+      confirm_message: 'Siz {forumTitle} saytından "{type}" e-poçt bildirişlərinə abunəlikdən çıxmaq üçün sorğu göndərmisiniz.'
+      invalid_message: 'Bu abunəlikdən çıxmaq linki etibarsızdır və ya artıq istifadə olunub. {forumTitle} saytından e-poçt bildirişlərinizdə hər hansı dəyişiklik üçün [parametrlərinizi yoxlayın]({settingsLink}).'
