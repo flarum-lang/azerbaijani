@@ -14,6 +14,7 @@ CHANGELOG
 **Added support for new extensions**:
 
 * [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache)
+* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
 * [`flarum/bbcode`](https://github.com/flarum/bbcode)
 * [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
 * [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views)
