@@ -17,6 +17,7 @@ CHANGELOG
 * [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
 * [`flarum/bbcode`](https://github.com/flarum/bbcode)
 * [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
+* [`fof/blog`](https://github.com/FriendsOfFlarum/blog)
 * [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views)
 * [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification)
 * [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade)
