@@ -29,6 +29,7 @@ CHANGELOG
 * [`fof/username-request`](https://github.com/FriendsOfFlarum/username-request)
 * [`fof/webhooks`](https://github.com/FriendsOfFlarum/webhooks)
 * [`huseyinfiliz/notificationhub`](https://github.com/huseyinfiliz/notificationhub)
+* [`jslirola/flarum-ext-login2seeplus`](https://github.com/jslirola/flarum-ext-login2seeplus)
 * [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox)
 * [`maicol07/flarum-ext-sso`](https://github.com/maicol07/flarum-ext-sso)
 * [`ramon/avocado`](https://github.com/ram0ng1/avocado)
