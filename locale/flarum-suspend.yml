@@ -7,9 +7,6 @@ flarum-suspend:
     permissions:
       suspend_users_label: 'Dondurulmus istifadəçilər'
   forum:
-    notifications:
-      user_suspended_text: '{username} sizi {timeReadable} müddətinə dondurdu'
-      user_unsuspended_text: '{username} sizi dondurdu'
     suspend_user:
       indefinitely_label: 'Müəyyən olmayan müddətə donduruldu'
       limited_time_days_text: ' günlər'
