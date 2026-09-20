@@ -49,6 +49,7 @@ CHANGELOG
 * [`flarum/statistics`](https://github.com/flarum/statistics) (1 removed)
 * [`flarum/sticky`](https://github.com/flarum/sticky) (5 changed)
 * [`flarum/subscriptions`](https://github.com/flarum/subscriptions) (1 added, 13 changed, 1 removed)
+* [`flarum/suspend`](https://github.com/flarum/suspend) (2 removed)
 * [`flarum/tags`](https://github.com/flarum/tags) (9 added, 27 changed, 3 removed)
 * [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer) (3 removed)
 * [`fof/links`](https://github.com/FriendsOfFlarum/links) (4 removed)
