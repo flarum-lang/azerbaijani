@@ -7,8 +7,8 @@ CHANGELOG
 
 **General changes**:
 
-* Updated Flarum core translations.
-* Updated validation translations.
+* Updated Flarum core translations (216 added, 181 changed).
+* Updated validation translations (47 added, 55 changed).
 
 
 **Added support for new extensions**:
@@ -53,24 +53,24 @@ CHANGELOG
 
 **Updated translations for extensions**:
 
-* [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab)
-* [`afrux/forum-stats-widget`](https://github.com/afrux/forum-stats-widget)
-* [`afrux/online-users-widget`](https://github.com/afrux/online-users-widget)
-* [`afrux/top-posters-widget`](https://github.com/afrux/top-posters-widget)
-* [`flarum/akismet`](https://github.com/flarum/akismet)
-* [`flarum/approval`](https://github.com/flarum/approval)
-* [`flarum/flags`](https://github.com/flarum/flags)
-* [`flarum/likes`](https://github.com/flarum/likes)
-* [`flarum/lock`](https://github.com/flarum/lock)
-* [`flarum/markdown`](https://github.com/flarum/markdown)
-* [`flarum/mentions`](https://github.com/flarum/mentions)
-* [`flarum/pusher`](https://github.com/flarum/pusher)
-* [`flarum/sticky`](https://github.com/flarum/sticky)
-* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
-* [`flarum/suspend`](https://github.com/flarum/suspend)
-* [`flarum/tags`](https://github.com/flarum/tags)
-* [`fof/pages`](https://github.com/FriendsOfFlarum/pages)
-* [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio)
+* [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab) (1 added)
+* [`afrux/forum-stats-widget`](https://github.com/afrux/forum-stats-widget) (3 changed)
+* [`afrux/online-users-widget`](https://github.com/afrux/online-users-widget) (2 changed)
+* [`afrux/top-posters-widget`](https://github.com/afrux/top-posters-widget) (1 changed)
+* [`flarum/akismet`](https://github.com/flarum/akismet) (3 added, 1 changed)
+* [`flarum/approval`](https://github.com/flarum/approval) (3 changed)
+* [`flarum/flags`](https://github.com/flarum/flags) (6 added, 16 changed)
+* [`flarum/likes`](https://github.com/flarum/likes) (4 added, 6 changed)
+* [`flarum/lock`](https://github.com/flarum/lock) (2 changed)
+* [`flarum/markdown`](https://github.com/flarum/markdown) (11 added)
+* [`flarum/mentions`](https://github.com/flarum/mentions) (10 added, 13 changed)
+* [`flarum/pusher`](https://github.com/flarum/pusher) (1 changed)
+* [`flarum/sticky`](https://github.com/flarum/sticky) (5 changed)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions) (1 added, 14 changed)
+* [`flarum/suspend`](https://github.com/flarum/suspend) (2 removed)
+* [`flarum/tags`](https://github.com/flarum/tags) (9 added, 27 changed)
+* [`fof/pages`](https://github.com/FriendsOfFlarum/pages) (13 added, 5 changed)
+* [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio) (2 added, 2 changed)
 
 
 All changes: [1.0.1...1.0.2](https://github.com/flarum-lang/azerbaijani/compare/1.0.1...1.0.2).
