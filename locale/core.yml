@@ -29,6 +29,7 @@ core:
       logo_text: 'Forumun başlığının yerinə göstəriləcək bir şəkil yükləyin (Loqo).'
       title: Görünüş
     basics:
+      abandoned_extensions_notify_admins_label: 'Həftəlik yoxlama zamanı yeni tərk edilmiş genişləndirmə aşkar edildikdə adminlərə e-poçt göndərin'
       all_discussions_label: '=> core.ref.all_discussions'
       default_language_heading: 'Hazırki Dil'
       description: 'Forumun başlığını, dilini və digər əsas parametrlərinizi təyin edin.'
@@ -262,6 +263,8 @@ core:
       must_not_be_multidimensional_array_message: '{filter} filtri çoxölçülü massiv olmamalıdır.'
     invalid_username_message: 'İstifadəçi adı yalnız hərflər, rəqəmlər və tirelərdən ibarət ola bilər.'
   email:
+    abandoned_extensions:
+      subject: 'Tədbir tələb olunur: tərk edilmiş genişləndirmə(lər) aşkar edildi'
     activate_account:
       body: "Salam {username}!\n\nKimsə bu e-poçt ünvanı ilə {forum} saytına üzv oldu.\n\nBunu siz etmisinizssə, aşağıdakı linkə daxil olaraq heabınızı aktiv edin:\n{url}\n\nQeydiyyatdan keçməmisinizsə, bu e-poçtu gözardı edin.\n"
       subject: 'Yeni Hesabınızı Aktivləşdirin'
