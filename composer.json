@@ -1,31 +1,24 @@
 {
 	"name": "flarum-lang/azerbaijani",
+	"description": "Azerbaijani Language Pack for Flarum",
 	"type": "flarum-extension",
-	"description": "Azerbaijani language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/azerbaijani",
 	"keywords": [
-		"locale",
-		"flarum",
-		"azerbaijani-locale"
+		"flarum-locale"
 	],
+	"homepage": "https://github.com/flarum-lang/azerbaijani",
 	"license": "MIT",
-	"authors": [
-		{
-			"name": "Khayal",
-			"email": "gsmmasteraz@gmail.com",
-			"homepage": "https://gsmmaster.az/"
-		}
-	],
 	"support": {
 		"issues": "https://github.com/flarum-lang/azerbaijani/issues",
+		"forum": "https://discuss.flarum.org/d/40171",
 		"source": "https://github.com/flarum-lang/azerbaijani"
 	},
 	"require": {
 		"flarum/core": "^1.0"
 	},
-	"minimum-stability": "dev",
-	"prefer-stable": true,
 	"extra": {
+		"branch-alias": {
+			"dev-master": "1.x-dev"
+		},
 		"flarum-extension": {
 			"title": "Azerbaijani",
 			"category": "language",
@@ -37,13 +30,7 @@
 		},
 		"flarum-locale": {
 			"code": "az",
-			"title": "Azerbaijani"
-		},
-		"extiverse": {
-			"discuss": ""
-		},
-		"branch-alias": {
-			"dev-master": "1.x-dev"
+			"title": "Azərbaycan dili"
 		}
 	}
 }
